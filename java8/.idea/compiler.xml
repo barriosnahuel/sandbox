@@ -22,8 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Java 8" />
-        <module name="test" />
+        <module name="Java8Testing" />
       </profile>
     </annotationProcessing>
   </component>
