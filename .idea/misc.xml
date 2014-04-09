@@ -3,11 +3,15 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/liferay-theme" />
+  </component>
   <component name="IdProvider" IDEtalkID="09D8CE7BEEC698E20837F3C67758DB6E" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/liferay-theme/pom.xml" />
       </list>
     </option>
   </component>

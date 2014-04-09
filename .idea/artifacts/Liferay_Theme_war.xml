@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Liferay Theme:war">
+    <output-path>$PROJECT_DIR$/liferay-theme/target</output-path>
+    <root id="archive" name="theme-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Liferay Theme:war exploded" />
+    </root>
+  </artifact>
+</component>
