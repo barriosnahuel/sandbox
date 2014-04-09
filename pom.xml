@@ -12,6 +12,7 @@
 
     <modules>
         <module>java8</module>
+        <module>liferay-theme</module>
     </modules>
 
 </project>
