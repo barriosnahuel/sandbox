@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="700fa173-e6a4-4be4-aab6-9b8ce243d922" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/nodeJS_expressWebApp_node_modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Testing Things.iws" />
@@ -590,7 +589,7 @@
       <workItem from="1397067017240" duration="607000" />
       <workItem from="1397067627400" duration="4914000" />
       <workItem from="1397075083805" duration="102000" />
-      <workItem from="1397141912014" duration="848000" />
+      <workItem from="1397141912014" duration="855000" />
     </task>
     <task id="LOCAL-00001" summary="Add a liferay theme (Maven module).">
       <created>1397067827402</created>
@@ -608,11 +607,15 @@
       <created>1397142757421</created>
       <updated>1397142757421</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update IDEA files.">
+      <created>1397142763673</created>
+      <updated>1397142763673</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9859000" />
+    <option name="totallyTimeSpent" value="9866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="-4" width="1553" height="905" extended-state="6" />
@@ -669,9 +672,9 @@
     </option>
     <MESSAGE value="Add a liferay theme (Maven module)." />
     <MESSAGE value="Add Liferay Theme module to main Maven module." />
-    <MESSAGE value="Update IDEA files." />
     <MESSAGE value="Improve pom.xml." />
-    <option name="LAST_COMMIT_MESSAGE" value="Improve pom.xml." />
+    <MESSAGE value="Update IDEA files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update IDEA files." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
