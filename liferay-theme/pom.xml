@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nbempire.liferay</groupId>
@@ -14,7 +16,10 @@
 		<liferay.theme.parent>_styled</liferay.theme.parent>
 		<liferay.theme.type>vm</liferay.theme.type>
         <liferay.version>6.1.2</liferay.version>
-        <liferay.auto.deploy.dir>C:\Archivos de programa\liferay-portal-6.1.2-ce-ga3\deploy</liferay.auto.deploy.dir>
+        <!--<liferay.home.dir>C:\Archivos de programa\liferay-portal-6.1.2-ce-ga3</lQciferay.home.dir>-->
+        <liferay.home.dir>/home/justkenchu/Coding/liferay-portal-6.1.2-ce-ga3</liferay.home.dir>
+        <liferay.auto.deploy.dir>${liferay.home.dir}/deploy</liferay.auto.deploy.dir>
+        <liferay.tomcat.webapps.dir>${liferay.auto.deploy.dir}/tomcat-7.0.40/webapps</liferay.tomcat.webapps.dir>
 	</properties>
 
 	<build>
@@ -25,8 +30,7 @@
                 <configuration>
                     <filesets>
                         <fileset>
-                            <directory>C:\Archivos de programa\liferay-portal-6.1.2-ce-ga3\tomcat-7.0.40\webapps</directory>
-                            <!--<directory>/home/justkenchu/Coding/liferay-portal-6.1.2-ce-ga3/tomcat-7.0.40/webapps/</directory>-->
+                            <directory>${liferay.tomcat.webapps.dir}</directory>
                             <includes>
                                 <include>theme-1.0-SNAPSHOT</include>
                             </includes>
