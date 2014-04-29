@@ -4,6 +4,4 @@
  */
 $(document).ready(function () {
     console.log('JQuery configured successfully.');
-
-    $('.modal').modal('show');
 });
