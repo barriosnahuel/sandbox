@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Java 8" />
+        <module name="java7" />
         <module name="Liferay Theme" />
         <module name="test" />
       </profile>
