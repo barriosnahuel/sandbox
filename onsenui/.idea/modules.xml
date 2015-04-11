@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/onsen_master_detail/onsen_master_detail.iml" filepath="$PROJECT_DIR$/onsen_master_detail/onsen_master_detail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onsen_sliding_menu/onsen_sliding_menu.iml" filepath="$PROJECT_DIR$/onsen_sliding_menu/onsen_sliding_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onsen_split_view/onsen_split_view.iml" filepath="$PROJECT_DIR$/onsen_split_view/onsen_split_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onsen_tab_bar/onsen_tab_bar.iml" filepath="$PROJECT_DIR$/onsen_tab_bar/onsen_tab_bar.iml" />
+    </modules>
+  </component>
+</project>

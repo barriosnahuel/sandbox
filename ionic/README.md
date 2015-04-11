@@ -5,7 +5,7 @@ This is a test project to test [Ionic framework](http://ionicframework.com/) fea
 
 ## Set up your environment
 
-* Follow instructions on [Ionic getting started guide](http://ionicframework.com/getting-started/)
+* Follow instructions on [getting started guide](http://ionicframework.com/getting-started/)
 
 ## Run project
 
