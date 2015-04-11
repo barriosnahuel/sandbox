@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java8/Java 8.iml" filepath="$PROJECT_DIR$/java8/Java 8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java7/Java7.iml" filepath="$PROJECT_DIR$/java7/Java7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/liferay-theme/Liferay Theme.iml" filepath="$PROJECT_DIR$/liferay-theme/Liferay Theme.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nodeJS-expressWebApp/NodeJS Express Web App.iml" filepath="$PROJECT_DIR$/nodeJS-expressWebApp/NodeJS Express Web App.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Testing Things.iml" filepath="$PROJECT_DIR$/Testing Things.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ROOT module.iml" filepath="$PROJECT_DIR$/ROOT module.iml" />
     </modules>
   </component>
 </project>
-
