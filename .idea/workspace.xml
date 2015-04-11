@@ -1,59 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="100f01fa-77cf-455a-9d37-8a8d462baf3b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/Java 7 Testing.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java8/Java 8 Testing.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ROOT module.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java7/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/Liferay_Theme_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/Liferay_Theme_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_liferay_portal_portal_service_6_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_liferay_portal_util_bridges_6_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_liferay_portal_util_java_6_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_liferay_portal_util_taglib_6_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_portlet_portlet_api_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/nodeJS_expressWebApp_node_modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/rebel_project.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/Deploy_Liferay_Theme_into_local_LF.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/StreamTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Testing Things.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java7/Java7.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/java8/Java 8.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pom.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java8/.idea/.name" afterPath="$PROJECT_DIR$/java8/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/liferay-theme/Liferay Theme.iml" afterPath="$PROJECT_DIR$/liferay-theme/Liferay Theme.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java8/.idea/compiler.xml" afterPath="$PROJECT_DIR$/java8/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java8/.idea/modules.xml" afterPath="$PROJECT_DIR$/java8/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java7/pom.xml" afterPath="$PROJECT_DIR$/java7/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java8/.idea/vcs.xml" afterPath="$PROJECT_DIR$/java8/.idea/vcs.xml" />
+    <list default="true" id="100f01fa-77cf-455a-9d37-8a8d462baf3b" name="Default" comment="Add Android project (resolves #3) and upgrade Gradle versions; Upgrade Android-MVC project Gradle version; Improve Bootstrap project README; Add Ionic project (#1) and add a basic README.md (#4);">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/ic_action_help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/ic_navigation_accept.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/ic_navigation_cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/ic_navigation_refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/newyork.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/barriosnahuel/android/test/activity/ActionBarActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/barriosnahuel/android/test/activity/FadingActionBarActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/barriosnahuel/android/test/activity/FadingActionBarWithQuickReturnActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/nbempire/fadingquickreturnactionbar/FadingQuickReturnActionBarBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/barriosnahuel/android/test/activity/HomeActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic/Ionic.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/java/com/nbempire/android/mvc/model/Item.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/java/com/nbempire/android/mvc/repository/ItemRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/java/com/nbempire/android/mvc/repository/impl/ItemRepositoryImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/manuelpeinado/quickreturnheader/ListViewScrollObserver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/barriosnahuel/android/test/activity/MultipleScrollsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/cyrilmottier/android/translucentactionbar/NotifyingScrollView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/barriosnahuel/android/test/activity/QuickReturnActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/manuelpeinado/quickreturnheader/QuickReturnHeaderHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/.idea/runConfigurations/Run_application.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/barriosnahuel/android/test/activity/ScreenSlideActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/java/com/nbempire/android/mvc/component/activity/SearchActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/java/com/nbempire/android/mvc/controller/SearchController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/java/com/nbempire/android/mvc/model/SearchModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/java/com/nbempire/android/mvc/view/SearchView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/activity_action_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/activity_fading_action_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/activity_fading_action_bar_with_quick_return.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/activity_home.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/activity_multiple_scrolls.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/activity_quick_return.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/activity_screen_slide.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/activity_scrollview" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/res/layout/activity_search.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/android-mvc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/header_fading_action_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/header_quickreturn" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/menu/menu_action_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/menu/my_menu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/qrh__listview_container.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/qrh__scrollview_container.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/res/menu/search.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/values/themes.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android-mvc/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/res/layout/viewpager_screenslide.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ionic/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/runConfigurations/app.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/app.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/androidTest/java/com/nbempire/android/mvc/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/java/com/nbempire/android/mvc/component/activity/SearchActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/java/com/nbempire/android/mvc/controller/SearchController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/java/com/nbempire/android/mvc/model/Item.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/java/com/nbempire/android/mvc/model/SearchModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/java/com/nbempire/android/mvc/repository/ItemRepository.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/java/com/nbempire/android/mvc/repository/impl/ItemRepositoryImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/java/com/nbempire/android/mvc/view/SearchView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/res/layout/activity_search.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/res/menu/search.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/pom.xml.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/android-mvc/pom.xml/settings.gradle" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/README.md" afterPath="$PROJECT_DIR$/bootstrap/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java8/.idea/workspace.xml" afterPath="$PROJECT_DIR$/java8/.idea/workspace.xml" />
     </list>
     <ignored path="Testing and Innovating.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,6 +184,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/qml/README.md" />
       </list>
     </option>
   </component>
@@ -176,67 +275,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="liferay-theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Testing and Innovating" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testing-and-innovating" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="liferay-theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Testing and Innovating" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testing-and-innovating" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="liferay-theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="bootstrap" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -268,7 +307,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="preferences.lookFeel" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -537,12 +576,27 @@
       <workItem from="1428779548788" duration="489000" />
       <workItem from="1428780643399" duration="96000" />
       <workItem from="1428780750736" duration="157000" />
-      <workItem from="1428781039256" duration="21000" />
+      <workItem from="1428781039256" duration="258000" />
+      <workItem from="1428781588695" duration="891000" />
+      <workItem from="1428784522768" duration="809000" />
     </task>
+    <task id="LOCAL-00001" summary="Update root module; Add root .gitignore excluding Android, Gradle, Java, Maven and Node; Fix java7 and java8 modules;">
+      <created>1428781139445</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1428781139445</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add helloQMLWorld project. It solves #2.">
+      <created>1428782236779</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1428782236779</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="763000" />
+    <option name="totallyTimeSpent" value="2700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="24" width="1555" height="876" extended-state="6" />
@@ -571,6 +625,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -588,9 +643,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Update root module; Add root .gitignore excluding Android, Gradle, Java, Maven and Node; Fix java7 and java8 modules;" />
+    <MESSAGE value="Add helloQMLWorld project. It solves #2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add helloQMLWorld project. It solves #2." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -605,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -613,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,7 +693,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3277849" vertical-offset="734" max-vertical-offset="1515">
           <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qml/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13444301" vertical-offset="0" max-vertical-offset="781">
+          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
         </state>
       </provider>
     </entry>
