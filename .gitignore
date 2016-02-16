@@ -1,4 +1,5 @@
-
+.idea
+*.iml
 
 ### Mac OS X template
 /**/.DS_Store
