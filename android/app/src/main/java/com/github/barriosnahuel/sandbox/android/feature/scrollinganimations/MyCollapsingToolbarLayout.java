@@ -53,6 +53,7 @@ public class MyCollapsingToolbarLayout extends CollapsingToolbarLayout {
                     }
                 }
             } else {
+                throw new RuntimeException("Changing alpha without the animation is not implemented, yet.");
                 // TODO: 2/23/17 Replicate if block here without animating it
             }
 

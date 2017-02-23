@@ -1,5 +1,6 @@
 apply plugin:'com.android.application'
 apply plugin:'com.jakewharton.hugo'
+apply plugin:'com.monits.staticCodeAnalysis'
 
 android {
     compileSdkVersion 25
@@ -33,4 +34,32 @@ dependencies {
     compile 'com.facebook.stetho:stetho:1.4.2'
 
     testCompile 'junit:junit:4.12'
+}
+
+staticCodeAnalysis {
+    findbugs = false // For the purpose of this project only using only PMD is enough
+    checkstyle = true
+    pmd = true
+    cpd = true
+    androidLint = true
+
+    ignoreErrors = false
+
+//    // default rules
+//    findbugsExclude = "$project.rootProject.projectDir/config/findbugs/excludeFilter.xml"
+//    checkstyleRules = "http://static.monits.com/checkstyle.xml"
+//    pmdRules = [ "http://static.monits.com/pmd.xml", "http://static.monits.com/pmd-android.xml" ]
+//
+//    // Since 2.2.0
+//    androidLintConfig = "http://static.monits.com/android-lint.xml"
+//
+//    // Since 2.0.0
+//    sourceSetConfig {
+//        test { // or the name of any other sourceset
+//            // use a more relaxed ruleset
+//            checkstyleRules = 'config/checkstyle/test-checkstyle.xml'
+//            findbugsExclude = 'config/findbugs/test-findbugs.xml'
+//            pmdRules = [ 'config/pmd/test-pmd.xml', "http://static.monits.com/pmd-android.xml" ]
+//        }
+//    }
 }
