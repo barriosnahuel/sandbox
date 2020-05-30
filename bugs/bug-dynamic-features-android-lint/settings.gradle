@@ -1,0 +1,3 @@
+rootProject.name='Android Lint Resource Prefix'
+include ':app'
+include ':dynamicfeature'

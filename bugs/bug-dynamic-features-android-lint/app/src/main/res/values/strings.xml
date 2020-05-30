@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Lint Resource Prefix</string>
+    <string name="app_title_dynamicfeature">Module Title</string>
+</resources>
